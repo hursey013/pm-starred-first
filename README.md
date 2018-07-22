@@ -1,6 +1,8 @@
 # Starred First for ProtonMail
 Moved starred ProtonMail messages to the top of the inbox
 
+Download in the [Chrome Web Store](https://chrome.google.com/webstore/detail/starred-first-for-protonm/ipkllhlikbdpdkpkfacfmanbjligdkef)
+
 ## Installation:
 1. Clone this repository to your local machine
 2. Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:  The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
