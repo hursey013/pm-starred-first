@@ -4,6 +4,9 @@
   "description": "Moved starred ProtonMail messages to the top of the inbox",
   "version": "0.0.1",
   "author": "Brian Hurst",
+  "icons": {
+    "48": "icon48.png"
+  },
   "background": {
     "scripts":["background.js"]
   },
