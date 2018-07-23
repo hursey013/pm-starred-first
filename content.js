@@ -12,11 +12,6 @@ function moveStarred() {
   var stars = document.querySelectorAll('.starButton-starred');
 
   if (stars) {
-    var wrapper = document.querySelector('.conversation-wrapper');
-
-    wrapper.style.display = 'flex';
-    wrapper.style['flex-direction'] = 'column';
-
     for (var star of stars) {
       var message = star.closest('.conversation');
 

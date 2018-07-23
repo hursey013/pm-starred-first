@@ -1,0 +1,8 @@
+.conversation {
+  flex: none;
+}
+
+.conversation-wrapper {
+  display: flex;
+  flex-direction: column;
+}
