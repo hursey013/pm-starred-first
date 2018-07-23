@@ -26,7 +26,7 @@ init('.conversation', moveStarred, 100);
 // Listen for URL changes
 chrome.runtime.onMessage.addListener(
   function (request, sender, sendResponse) {
-    if (request.url.endsWith('inbox')) {
+    if (request.url.includes('inbox')) {
       init('.conversation', moveStarred, 100);
     }
   }
